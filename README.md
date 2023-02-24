@@ -17,7 +17,9 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-coutinho-288625243/)
 [![Whatsapp](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](@devjuanx:matrix.org)
 
-
+<div>
+          <img align="right" alt="Compositor" height="200" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
+          </div>
 
 
 ![juangit](https://github-readme-stats.vercel.app/api?username=rafokez&show_icons=true&theme=dracula)
