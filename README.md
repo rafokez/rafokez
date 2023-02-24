@@ -20,7 +20,7 @@
 
 
 
-![juangit](https://github-readme-stats.vercel.app/api?username=DevJuanzok4&show_icons=true&theme=dracula)
+![juangit](https://github-readme-stats.vercel.app/api?username=rafokez&show_icons=true&theme=dracula)
 
 ## 🔌- Habilidades e Linguagens:
 
