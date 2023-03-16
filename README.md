@@ -18,7 +18,7 @@
 [![Whatsapp](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](@devjuanx:matrix.org)
 
 <div>
-          <img align="right" alt="Compositor" height="200" width="200"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phalcon/phalcon-original.svg" />
+          <img align="right" alt="Compositor" height="200" width="200"  src="https://camo.githubusercontent.com/d5d0d536196d1fc9c41e39ad01411cda452fb0846cf87e04d1c03dda4f074211/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3938333136303536353630383336323030342f313037383834373332353434383938323634352f41746c616e7469735f4c6f676f2e706e67" />
           </div>
 
 
