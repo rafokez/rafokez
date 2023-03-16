@@ -18,7 +18,7 @@
 [![Whatsapp](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)](@devjuanx:matrix.org)
 
 <div>
-          <img align="right" alt="Compositor" height="200" width="200"  src="https://github.com/DevJuanzok4/Login4.0-Atlas/blob/main/atlas.png?raw=true" />
+          <img align="right" alt="Compositor" height="600" width="600"  src="https://github.com/DevJuanzok4/Login4.0-Atlas/blob/main/atlas.png?raw=true" />
           </div>
 
 
