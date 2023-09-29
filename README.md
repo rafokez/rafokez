@@ -2,7 +2,7 @@
 
 🎓 Me chamo Rafael Almeida, mas devido ao meu apelido "fokes" que significa "focus" (ou foco em português) tenho como nome artístico Raphael Focused, pois representa como eu fui, sou e serei na minha vida inteira.
 
-🎓 Minha principal área é o Design. Se tem algo que amo fazer, é o design. Claro, sou ótimo nas minhas outras especialidades, mas meu amor verdadeiro é inovar, trazendo assim a essência do Design Digital. Minha aproximação com a programação em si é direta e objetiva, ofuscando a ideia de que sou só mais um na área, e trazendo à tona a sensação única de ser exclusivo e especial.
+🎓 Minha aproximação com a programação em si é direta e objetiva, ofuscando a ideia de que sou só mais um na área, e trazendo à tona a sensação única de ser exclusivo e especial. Espero poder contar com você em seu projeto e ajudá-lo da melhor maneira possível com meu leque de possibilidades!
 
 ## 💻- Meus sistemas operacionais
 
