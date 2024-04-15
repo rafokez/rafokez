@@ -11,10 +11,9 @@
 # 👤- Redes Sociais
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-almeida-62b446274/)
-[![Whatsapp](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5513988342378&text=Ol%C3%A1!%20Vim%20do%20seu%20perfil%20do%20GitHub.)
 
 <div>
-    <img align="right" alt="Compositor" height="300" width="300"  src="https://github.com/DevJuanzok4/Login4.0-Atlas/blob/main/atlas.png?raw=true" />
+    <img align="right" alt="Compositor" height="300" width="300"  src="https://imgur.com/a/pmwaDF1" />
 </div>
 
 ![fokesgit](https://github-readme-stats.vercel.app/api?username=rafokez&show_icons=true&theme=dracula)
