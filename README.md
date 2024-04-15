@@ -13,7 +13,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-almeida-62b446274/)
 
 <div>
-    <img align="right" alt="Compositor" height="300" width="300"  src="https://imgur.com/a/pmwaDF1" />
+    <img align="right" alt="Compositor" height="300" width="300"  src="[https://imgur.com/a/pmwaDF1](https://i.imgur.com/lVAZbFg.png)" />
 </div>
 
 ![fokesgit](https://github-readme-stats.vercel.app/api?username=rafokez&show_icons=true&theme=dracula)
