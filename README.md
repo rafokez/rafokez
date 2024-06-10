@@ -6,7 +6,7 @@
 
 ## 📖 Sobre Mim
 
-Minha aproximação com a programação é direta e objetiva, ofuscando a ideia de que sou só mais um na área, e trazendo à tona a sensação única de ser exclusivo e especial. Espero poder contar com você em seu projeto e ajudá-lo da melhor maneira possível com meu leque de possibilidades.
+Prazer, meu nome é Rafael Almeida Martins. Minha aproximação com a programação é direta e objetiva, ofuscando a ideia de que sou só mais um na área, e trazendo à tona a sensação única de ser exclusivo e especial. Espero poder contar com você em seu projeto e ajudá-lo da melhor maneira possível com meu leque de possibilidades.
 
 ## 🎓 Formação
 
@@ -16,7 +16,7 @@ Atualmente, estou estudando para me tornar um Desenvolvedor Salesforce juntament
 
 Tenho experiência e conhecimento nas seguintes tecnologias:
 
-- **HTML, CSS e JavaScript** ![80%](https://progress-bar.dev/80)
+- **HTML, CSS e JavaScript** ![85%](https://progress-bar.dev/85)
 - **Salesforce e Apex Básico** ![50%](https://progress-bar.dev/50)
 - **Ruby e Orientação a Objetos** ![60%](https://progress-bar.dev/60)
 - **React Native / Monaca** ![40%](https://progress-bar.dev/40)
